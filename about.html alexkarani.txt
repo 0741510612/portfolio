@@ -1,0 +1,74 @@
+<!--
+
+    Article: Portfolio Home page
+    Author:alex karani
+    Date:8th October
+    lnaguage:HTML5
+    License:MIT
+
+
+-->
+<!aboutype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about</title>
+</head>
+<body>
+    <!--Navigation bar section-->
+    <nav> 
+        <a href="project.html">project</a>
+        <a href="services.html">services</a>
+        <a href="about.html">about</a>
+        <a href="blog.html">blog</a>
+        <a href="contact.html">contact</a>
+        <a href="">resume</a>
+        </nav>
+       <!--Hero section-->
+       <header>
+           <img src=""alt="about">
+           <h1>about me</h1>
+           <p>find out everything about me</p>
+
+       </header>
+    <!--main page conte-->
+     <main
+     <h2>changelog 1.0</h2>
+     <p>for 1 year now i have been helping institutions on how to solve computer problems in IT</p>
+     <H2>Technologies i have worked with</H2>
+     <table>
+         <tr>
+             <th>languages</th>
+             <th>frameworks</th>
+             <h2>databases</h2>
+         </tr>
+         <tr>
+             <td>c/c++</td>
+             <td>crow cpp</td>
+             <tr>microsoft access</tr>
+         </tr>
+         <tr>
+             <td>java script</td>
+             <td>react</td>
+             <td>mongoDB</td>
+             <tr>
+                 <td>html/css</td>
+                 <td>bootstraps</td>
+             </tr>
+         </tr>
+     </table>
+     </main>
+<!--footer section-->
+       <footer>
+        <UL>
+            <LI><a href="">github</a><li>
+            <LI><a href="">linked</a></LI>  
+            <LI><a href="">twitter</a></LI>  
+            <LI><a href="">instagram</a></LI>  
+            <LI><a href="mailto">gmail</a></LI>  
+            
+       </footer>
+</body>
+</html>
